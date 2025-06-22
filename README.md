@@ -1,3 +1,3 @@
 # Hi there! 👋💻
-# I am Marija
+I am Marija
 Welcome to my GitHub profile! 
