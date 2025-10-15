@@ -7,4 +7,4 @@ I enjoy creating meaningful and creative projects while sharing my learning jour
 📫 You can contact me here:
 
 💌 [marijapetrevska25@gmail.com](mailto:yourname@email.com)  
-💼 [in/marijapetrevska](https://www.linkedin.com/in/yourprofile)
+💼 [LinkedIn](https://www.linkedin.com/in/marijapetrevska)
