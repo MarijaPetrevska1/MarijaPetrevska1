@@ -8,9 +8,3 @@ I enjoy creating meaningful and creative projects while sharing my learning jour
 
 💌 [marijapetrevska25@gmail.com](mailto:yourname@email.com)  
 💼 [www.linkedin.com/in/marijapetrevska](https://www.linkedin.com/in/yourprofile)
-
-## 🔧 Technologies & Tools
-- **Languages:** C#, JavaScript, HTML, CSS  
-- **Frameworks:** ASP.NET Core MVC, Web API  
-- **Databases:** SQL Server  
-- **Tools:** Git, Visual Studio, VS Code 
