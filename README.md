@@ -1,7 +1,7 @@
 # Hi there! 👋👩‍💻
 I am Marija Petrevska. Welcome to my GitHub profile!
 
-I'm currently focused on **Web Development**, exploring technologies like **C#, ASP.NET Core MVC, Web API, SQL, HTML/CSS, and JavaScript**. 💻
+I'm currently focused on **Web Development**, exploring technologies like **C#, ASP.NET Core MVC, Web API, SQL, HTML/CSS, and JavaScript**💻.
 I enjoy creating meaningful and creative projects while sharing my learning journey — feel free to check out my repositories! ⭐🌸📚
 
 📫 You can contact me here:
