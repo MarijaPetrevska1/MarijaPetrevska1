@@ -6,6 +6,7 @@ I am **Marija Petrevska**, a **Web Developer** passionate about building respons
 My main tech stack includes: **C#, ASP.NET Core MVC, Web API, SQL, HTML/CSS, JavaScript** 💻  
 
 🛠️Always Learning
+
 Currently, learning *Angular and TypeScript*, building small projects and experimenting to improve my skills. 
 I am always eager to explore new technologies, try innovative ideas, and stay up-to-date in the fast-evolving world of web development.
 
