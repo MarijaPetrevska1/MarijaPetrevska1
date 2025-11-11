@@ -7,7 +7,7 @@ Currently, I am learning *Angular and TypeScript*, building small projects and e
 
 ⭐🌸📚 I enjoy creating meaningful and creative projects while sharing my learning journey — feel free to check out my repositories! 
 
-📫 You can contact me here:
+### 📫 You can contact me here:
 
 💌 [marijapetrevska25@gmail.com](mailto:yourname@email.com)  
 💼 [in/marijapetrevska](https://www.linkedin.com/in/marijapetrevska)
