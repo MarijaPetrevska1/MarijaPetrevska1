@@ -9,7 +9,7 @@ Currently, learning *Angular and TypeScript*, building small projects and experi
 
 ✨ I am always eager to explore new technologies, try innovative ideas, and stay up-to-date in the fast-evolving world of web development.
 
-⭐🌸📚 I enjoy building creative projects and sharing my coding journey — ****feel free to check out my repositories!**** 
+⭐🌸📚 I enjoy building creative projects and sharing my coding journey — **feel free to check out my repositories!**
 
 ### 📫 You can contact me here:
 
