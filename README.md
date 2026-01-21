@@ -6,6 +6,7 @@ I am **Marija Petrevska**, a **Full Stack Web Developer** passionate about build
 
 ✨ I’m highly motivated to continuously grow as a software developer, explore new technologies when possible, and stay up-to-date in the fast-evolving world of web development.
 
+
 ⭐🌸📚 I enjoy building creative projects and sharing my coding journey — **feel free to check out my repositories and see what I’ve been working on!** 
 
 ### 📫 You can contact me here:
