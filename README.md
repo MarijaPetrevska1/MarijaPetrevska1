@@ -11,5 +11,5 @@ My main tech stack includes: C#, ASP.NET Core MVC, Web API, SQL, HTML/CSS, JavaS
 
 ### 📫 You can contact me here:
 
-💌 [marijapetrevska25@gmail.com](mailto:yourname@email.com)  
-💼 [in/marijapetrevska](https://www.linkedin.com/in/marijapetrevska)
+💌 Email: [marijapetrevska25@gmail.com](mailto:yourname@email.com)  
+💼 LinkedIn: [in/marijapetrevska](https://www.linkedin.com/in/marijapetrevska)
