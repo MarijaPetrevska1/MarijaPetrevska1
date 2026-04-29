@@ -1,4 +1,4 @@
-# Hi there! 👋👩‍💻 
+# Hi there! 👋👩‍💻  
 Welcome to my GitHub profile! 
 
 I am **Marija Petrevska**, a **Full Stack Web Developer** passionate about building responsive, user-friendly, and meaningful web applications. 
