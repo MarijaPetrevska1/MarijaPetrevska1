@@ -5,7 +5,7 @@ I am **Marija Petrevska**, a **Full Stack Web Developer** dedicated to building 
 
 💻 My main tech stack includes: C#, ASP.NET Core MVC, Web API, SQL, HTML/CSS, JavaScript.
 
-📚 Currently learning: React
+📚 Currently learning: React and TypeScript.
 
 I’m highly motivated to continuously grow as a software developer, explore new technologies, and stay up-to-date in the fast-evolving world of web development.
 
