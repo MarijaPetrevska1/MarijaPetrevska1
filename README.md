@@ -4,9 +4,7 @@ Welcome to my GitHub profile!
  
 I am **Marija Petrevska**, a Computer Science Engineer and Full Stack Web Developer.
 
-💻 My main tech stack includes:  C#,  ASP.NET Core MVC,  Web API,  SQL,  HTML/CSS,  JavaScript.
-
-Currently learning:  React and TypeScript.
+💻 My main tech stack includes:  C#,  ASP.NET Core MVC,  Web API,  SQL,  HTML/CSS,  JavaScript. Currently learning:  React and TypeScript.
 
 I’m highly motivated to continuously grow as a software developer, explore new technologies, and stay up-to-date in the fast-evolving world of web development.
 
