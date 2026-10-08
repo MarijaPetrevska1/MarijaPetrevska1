@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!      
  
-I am **Marija Petrevska**, a **Computer Science Engineer and Full Stack Web Developer**.
+I am **Marija Petrevska**, a Computer Science Engineer and Full Stack Web Developer.
 
 💻 My main tech stack includes:  C#,  ASP.NET Core MVC,  Web API,  SQL,  HTML/CSS,  JavaScript.
 
