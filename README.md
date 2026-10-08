@@ -2,8 +2,7 @@
 
 Welcome to my GitHub profile!      
  
-I am **Marija Petrevska**, a Computer Science Engineer and Full Stack Web Developer.
-I graduated from the Faculty of Information and Communication Technologies in Bitola and completed the Academy for Full-Stack Programming (Web Development) at Avenga Academy.
+I am **Marija Petrevska**, a graduated Computer Science Engineer and Full Stack Web Developer.
 
 💻 My main tech stack includes:  C#,  ASP.NET Core MVC,  Web API,  SQL,  HTML/CSS,  JavaScript.
 
